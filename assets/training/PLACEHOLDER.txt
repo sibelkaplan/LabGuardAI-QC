@@ -1,0 +1,3 @@
+A real training video is not included.
+If a file named acid-safety.mp4 is placed in this folder, the training center can play it.
+Until then the center plays the local storyboard. That storyboard is not a work procedure.

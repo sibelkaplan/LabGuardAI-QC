@@ -1,0 +1,178 @@
+{
+  "hcl": {
+    "kind": "photo",
+    "file": "photos/hcl.jpg",
+    "sketch": "flask",
+    "author": "Walkerma",
+    "license": "Public domain (Wikimedia Commons template PD-link)",
+    "license_url": "https://commons.wikimedia.org/wiki/Template:PD-link",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Hydrochloric_acid_05.jpg",
+    "caption_tr": "Fotoğraf. Üzerinde hidroklorik asit yazan bir laboratuvar şişesi. Bu işyerinin ürünü değildir ve SDS yerine geçmez. Kaynak dosya küçüktür (332×516). Walkerma, yaklaşık 2005. Lisans: kamu malı, PD-link.",
+    "caption_en": "Photograph. A laboratory bottle labelled hydrochloric acid. It is not this workplace's product and it is not an SDS. The source file is small (332×516). Walkerma, about 2005. License: public domain, PD-link."
+  },
+  "caco3": {
+    "kind": "photo",
+    "file": "photos/caco3.jpg",
+    "sketch": "flask",
+    "author": "Walkerma",
+    "license": "Public domain (Wikimedia Commons template PD-self)",
+    "license_url": "https://commons.wikimedia.org/wiki/Template:PD-self",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Calcium_carbonate.jpg",
+    "caption_tr": "Fotoğraf. Kalsiyum karbonat olarak kaydedilmiş beyaz bir toz örneği. Beyaz tozlar birbirine benzeyebilir; şişe etiketi bu karede yok. Bu işyerinin ürünü değildir. Walkerma, 2005. Lisans: kamu malı, PD-self.",
+    "caption_en": "Photograph. A white powder sample recorded as calcium carbonate. White powders can look alike; this frame has no bottle label. It is not this workplace's product. Walkerma, 2005. License: public domain, PD-self."
+  },
+  "acetone": {
+    "kind": "illustration",
+    "file": "",
+    "sketch": "flask",
+    "author": "LabGuard AI",
+    "license": "Original illustration for this application",
+    "license_url": "",
+    "source_url": "",
+    "caption_tr": "İllüstrasyon. Gerçek fotoğraf değildir. Etiketi açık ve lisansı uygun bir aseton fotoğrafı bu sürüme konmadı. Etiketsiz bir sıvı veya tehlike işareti kuşkulu bir şişe kullanılmadı.",
+    "caption_en": "Illustration. This is not a photograph. A clearly labelled acetone photograph with a suitable license was not added in this version. An unlabelled liquid and a bottle with a doubtful hazard mark were not used."
+  },
+  "nacl": {
+    "kind": "photo",
+    "file": "photos/nacl.jpg",
+    "sketch": "flask",
+    "author": "Stanislav.nevyhosteny",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Sodium_chloride_crystals.jpg",
+    "caption_tr": "Fotoğraf. Sodyum klorür kristalleri. Ürün şişesi değildir. Stanislav.nevyhosteny, Wikimedia Commons. Lisans: CC BY-SA 4.0.",
+    "caption_en": "Photograph. Sodium chloride crystals. This is not a product bottle. Stanislav.nevyhosteny, Wikimedia Commons. License: CC BY-SA 4.0."
+  },
+  "naoh": {
+    "kind": "photo",
+    "file": "photos/naoh.jpg",
+    "sketch": "flask",
+    "author": "Walkerma",
+    "license": "Public domain (Wikimedia Commons template PD-self)",
+    "license_url": "https://commons.wikimedia.org/wiki/Template:PD-self",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Sodium_hydroxide.jpg",
+    "caption_tr": "Fotoğraf. Sodyum hidroksit peletleri olarak kaydedilmiş bir örnek. Bu işyerinin ürünü değildir. Walkerma, Wikimedia Commons. Lisans: kamu malı, PD-self.",
+    "caption_en": "Photograph. A sample recorded as sodium hydroxide pellets. It is not this workplace's product. Walkerma, Wikimedia Commons. License: public domain, PD-self."
+  },
+  "kcl": {
+    "kind": "photo",
+    "file": "photos/kcl.jpg",
+    "sketch": "flask",
+    "author": "Walkerma",
+    "license": "Public domain (Wikimedia Commons template PD-self)",
+    "license_url": "https://commons.wikimedia.org/wiki/Template:PD-self",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Potassium_chloride.jpg",
+    "caption_tr": "Fotoğraf. Potasyum klorür olarak kaydedilmiş beyaz bir toz örneği. Beyaz tozlar birbirine benzeyebilir; şişe etiketi bu karede yok. Walkerma, 2005. Lisans: kamu malı, PD-self.",
+    "caption_en": "Photograph. A white powder sample recorded as potassium chloride. White powders can look alike; this frame has no bottle label. Walkerma, 2005. License: public domain, PD-self."
+  },
+  "ipa": {
+    "kind": "photo",
+    "file": "photos/ipa.jpg",
+    "sketch": "flask",
+    "author": "Reiserfs",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:2-Propanol_(Isopropylalkohol)_Flasche_aus_Apotheke_heller.jpg",
+    "caption_tr": "Fotoğraf. İzopropil alkol yazan bir şişe. Eski bir eczane etiketi örneğidir; bu işyerinin SDS belgesi değildir. Reiserfs, 2009. Lisans: CC BY-SA 3.0.",
+    "caption_en": "Photograph. A bottle labelled isopropyl alcohol. It is an old pharmacy-label example, not this workplace's SDS. Reiserfs, 2009. License: CC BY-SA 3.0."
+  },
+  "goggles": {
+    "kind": "illustration",
+    "file": "",
+    "sketch": "goggles",
+    "author": "LabGuard AI",
+    "license": "Original illustration for this application",
+    "license_url": "",
+    "source_url": "",
+    "caption_tr": "İllüstrasyon. Gerçek fotoğraf değildir. Bulunan gözlük fotoğrafları kimyasal sıçrama gözlüğü olarak doğrulanamadı. Delikli veya düz güvenlik gözlüğü, sıçrama gözlüğü yerine konmadı.",
+    "caption_en": "Illustration. This is not a photograph. The goggle photographs that were found could not be confirmed as chemical splash goggles. Vented impact goggles and spectacles were not used in their place."
+  },
+  "shield": {
+    "kind": "photo",
+    "file": "photos/shield.jpg",
+    "sketch": "shield",
+    "author": "Robert Giessmann",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Researcher_wearing_face_shield.jpg",
+    "caption_tr": "Fotoğraf. Laboratuvarda takılmış bir yüz siperi. Dosya bu siperi UV korumalı olarak tarif eder. Kimyasal sıçrama siperi olduğu burada doğrulanmadı. Siper, sıçrama gözlüğünün yerine geçmez. Robert Giessmann, 2018. Lisans: CC BY-SA 4.0.",
+    "caption_en": "Photograph. A face shield worn in a laboratory. The file describes it as UV-protecting. This application does not confirm that it is a chemical-splash shield. A shield does not replace splash goggles. Robert Giessmann, 2018. License: CC BY-SA 4.0."
+  },
+  "glove": {
+    "kind": "photo",
+    "file": "photos/glove.jpg",
+    "sketch": "glove",
+    "author": "BlueThunderTechnologies",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Polypropylene_Clean_Room_Wipe_and_Blue_Nitrile_Glove_-_1.jpg",
+    "caption_tr": "Fotoğraf. Mavi bir nitril eldiven örneği. Bu eldivenin her kimyasal için uygun olduğu anlamına gelmez. BlueThunderTechnologies, Wikimedia Commons. Lisans: CC BY-SA 4.0.",
+    "caption_en": "Photograph. An example of a blue nitrile glove. It does not mean this glove is suitable for every chemical. BlueThunderTechnologies, Wikimedia Commons. License: CC BY-SA 4.0."
+  },
+  "coat": {
+    "kind": "photo",
+    "file": "photos/coat.jpg",
+    "sketch": "coat",
+    "author": "Pi. (Leiden)",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Lab_coats.jpg",
+    "caption_tr": "Fotoğraf. Beyaz laboratuvar önlükleri. Kimyasala dayanıklı kıyafetle aynı şey olmayabilir. Pi., Leiden, Flickr üzerinden Wikimedia Commons. Lisans: CC BY 2.0.",
+    "caption_en": "Photograph. White laboratory coats. A coat is not necessarily chemical-resistant clothing. Pi., Leiden, via Flickr on Wikimedia Commons. License: CC BY 2.0."
+  },
+  "boot": {
+    "kind": "photo",
+    "file": "photos/boot.jpg",
+    "sketch": "boot",
+    "author": "Francis Flinch",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:S3_safety_footwear.jpg",
+    "caption_tr": "Fotoğraf. Kapalı S3 iş ayakkabısı örneği. İşyerinin ayakkabı kuralı ayrıca geçerlidir. Francis Flinch, Wikimedia Commons. Lisans: CC BY 3.0.",
+    "caption_en": "Photograph. An example of closed S3 safety boots. The workplace footwear rule still applies. Francis Flinch, Wikimedia Commons. License: CC BY 3.0."
+  },
+  "respirator": {
+    "kind": "illustration",
+    "file": "",
+    "sketch": "respirator",
+    "author": "LabGuard AI",
+    "license": "Original illustration for this application",
+    "license_url": "",
+    "source_url": "",
+    "caption_tr": "İllüstrasyon. Gerçek fotoğraf değildir. Solunum koruması burada bir modele bağlanmadı.",
+    "caption_en": "Illustration. This is not a photograph. Respiratory protection is not tied to a model here."
+  },
+  "hood": {
+    "kind": "photo",
+    "file": "photos/hood.jpg",
+    "sketch": "hood",
+    "author": "Argonne National Laboratory",
+    "license": "Public domain (work of the US federal government, PD-USGov)",
+    "license_url": "https://commons.wikimedia.org/wiki/Template:PD-USGov",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Fume_hood.jpg",
+    "caption_tr": "Fotoğraf. Bir laboratuvar çeker ocağı. Bu kare ocağın çalıştığını göstermez. Argonne National Laboratory. Lisans: kamu malı, PD-USGov.",
+    "caption_en": "Photograph. A laboratory fume hood. This frame does not show that the hood is working. Argonne National Laboratory. License: public domain, PD-USGov."
+  },
+  "eyewash": {
+    "kind": "photo",
+    "file": "photos/eyewash.jpg",
+    "sketch": "eyewash",
+    "author": "Ashashyou",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Emergency_eyewash_station.jpg",
+    "caption_tr": "Fotoğraf. Duvara monte bir acil göz duşu örneği. Kullanım işyerinin planına göredir. Fotoğraftaki basılı metin bu uygulamanın talimatı değildir. Ashashyou, 2018. Lisans: CC BY-SA 4.0.",
+    "caption_en": "Photograph. A wall-mounted emergency eyewash example. Use follows the workplace plan. Printed text in the photograph is not this application's instruction. Ashashyou, 2018. License: CC BY-SA 4.0."
+  },
+  "spill": {
+    "kind": "illustration",
+    "file": "",
+    "sketch": "spill",
+    "author": "LabGuard AI",
+    "license": "Original illustration for this application",
+    "license_url": "",
+    "source_url": "",
+    "caption_tr": "İllüstrasyon. Gerçek fotoğraf değildir. Doğru ekipmanı gösteren ve lisansı uygun bir dökülme kiti fotoğrafı bulunamadı.",
+    "caption_en": "Illustration. This is not a photograph. A spill-kit photograph that shows the right equipment and has a suitable license was not found."
+  }
+}
